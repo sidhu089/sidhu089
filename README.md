@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidhu089
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning node js and react native
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently working on Document analyzers 
+- 💞️ If you're looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
